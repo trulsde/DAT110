@@ -1,45 +1,44 @@
-# DAT110 - Innføring i dataanalyse og -visualisering
+# DAT110 - Introduction to Data Analysis and Visualisation
 
-## Om dette emnet
+## About this course
 
-Innføring i grunnleggende dataanalyse med moderne analyseverktøy
+Introduction to elementary data analysis based on modern tools
 
-- Datatyper og innlesing av data fra ulike filformater.
+- Datatypes and loading of data from various file formats.
 
-- Visualisering og eksplorativ analyse for identifikasjon av struktur og trender (histogrammer, scatterplott, box-plott m.m.).
+- Visualization and explorative analysis for identification of structure and trends (histograms, scatterplots, box-plots etc.).
 
-- Ulike mål på middeltall og spredning (gjennomsnitt, median, varians m.m.).
+- Some simple statistics (mean, median, variance etc.).
 
-- Korrelasjon og kovarians (på enkeltvariable og data på matriseform).
+- Correlation and covariance (of single variables and matrix data).
 
-- Krysstabeller.
+- Crosstables.
 
-- Enkel normalfordelingsteori, normaliserende transformasjoner og test av normalitet.
+- Elementary normal distribution theory, normalizing transformations and testing for normality.
 
-- Geometriske fordelinger, binomiske fordelinger, Poisson-fordelinger.
+- Geometric distributions, binomial distributions, Poisson-distributions.
 
-- Inferens (parametriske og ikke-parametriske for undersøkelse av ett og to utvalg) og enkel variansanalyse.
+- Inference (parametrical and non-parametrical for investigation of one and two samples) and simple analysis of variance.
 
-- Minste kvadraters metode (lineære modeller og polynomtilpasninger)
+- Least squares modelling (linear and polynomial fit).
 
-- Logistisk regresjon (klassifikasjon med to grupper).
+- Logistic regression (classification with two groups).
 
-- Glatting av tidsavhengige data.
+- Smoothing of time-dependent data.
 
-- Klusteranalyse (k-means, hierarkisk klusteranalyse m.m.).
+- Cluster analysis (k-means, hierarchical clustering etc.).
 
-## Dette lærer du
+## Learning outcome
+Skills and insight into basic data analysis techniques based on modern data collection. In addition to these, focus will be give to work relevant soft skill such as team work and presentation skills.
 
-Ferdigheter og innsikt i grunnleggende teknikker for dataanalyse generert via moderne datafangst. I tillegg vil fokus gies til ferdigheter som er relevant for arbeidslivet som gruppearbeid og presentasjoner.
+The student will learn to choose appropriate methods for
 
-Studenten skal lære om hvilke analysemetoder som passer til
+1) Explorative data analysis (plotting/visualisation and descriptive statistics),
 
-1) Eksplorativ dataanalyse (plotting/visualisering og enkle beskrivende statistiske måltall),
+2) Visualisation,
 
-2) Visualisering,
+3) Inference,
 
-3) Inferens,
+4) Modelling and prediction with continous and categorical responses (regression and classification) and validation of predictive models.
 
-4) Modellering og prediksjon med kontinuerlige og kategoriske responser (regresjon (enkel og multippel) og klassifikasjon) og validering av prediktive modeller.
-
-5) Innføring i klusteranalyse og glatting av tidsseriedata.
+5) Introduction to cluster analysis and smoothing of time series data.
